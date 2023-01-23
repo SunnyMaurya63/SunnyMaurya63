@@ -1,6 +1,6 @@
 <h1 align="center">Hello guys👋, I'm Sunny Maurya 👨‍💻</h1>
 <h3 align="center">Frontend Developer and Competitive Programmer</h3>
-<img src="https://imgs.search.brave.com/T-9CICOXQYQdLqKN_JdZ56ZNdMOMhW0U-53DgzuGlco/rs:fit:400:300:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzMxODE4/L3NjcmVlbnNob3Rz/LzIwOTE2MTgvZHJp/YmJiLmdpZg.gif">
+<img align="right" src="https://imgs.search.brave.com/T-9CICOXQYQdLqKN_JdZ56ZNdMOMhW0U-53DgzuGlco/rs:fit:400:300:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzMxODE4/L3NjcmVlbnNob3Rz/LzIwOTE2MTgvZHJp/YmJiLmdpZg.gif">
 
 - 🌱 I’m currently learning **full Stack Devlopement**
 
