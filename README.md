@@ -1,10 +1,7 @@
 <h1 align="center">Hello guys👋, I'm Sunny Maurya 👨‍💻</h1>
 <h3 align="center">Frontend Developer and Competitive Programmer</h3>
-<img align="right" height="40%" width="40%" src="https://imgs.search.brave.com/4gKc7-8frHIYB1y_6aGRfsgAU-voeH9EguF3lFXmKsI/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzIzOTc1/NS9zY3JlZW5zaG90/cy8zMDE5ODI0L2Rh/dmVfY29kaW5nX2Ry/aWJiYmxlLmdpZg.gif">
-
+<img align="right" height="40%"  width="40%" src="https://imgs.search.brave.com/4gKc7-8frHIYB1y_6aGRfsgAU-voeH9EguF3lFXmKsI/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzIzOTc1/NS9zY3JlZW5zaG90/cy8zMDE5ODI0L2Rh/dmVfY29kaW5nX2Ry/aWJiYmxlLmdpZg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnymaurya63&label=Profile%20views&color=0e75b6&style=flat" alt="sunnymaurya63" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnymaurya63" alt="sunnymaurya63" /></a> </p>
 
 - 🌱 I’m currently learning **full Stack Devlopement**
 
@@ -28,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnymaurya63&show_icons=true&locale=en" alt="sunnymaurya63" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnymaurya63&" alt="sunnymaurya63" /></p>
-
-
