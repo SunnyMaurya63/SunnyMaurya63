@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnymaurya63&label=Profile%20views&color=0e75b6&style=flat" alt="sunnymaurya63" /> </p>
 
 - 🌱 I’m currently learning *Devlopement*
-
+-🏂 I regularly participate in various online coding competitions.
+-♾️ I love solving Complex Mathematics Problems.
+-♔ I like to play Chess.
 - 💬 Ask me about *Competitive Programming*
 
 - 📫 How to reach me *211230056@nitdelhi.ac.in*
